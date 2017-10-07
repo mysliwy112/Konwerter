@@ -1,0 +1,14 @@
+Język: C
+Styl: https://web.archive.org/web/20090301205439/http://www.linuxhq.com/kernel/v1.3/53/Documentation/CodingStyle
+
+Planowane jednostki:
+* temperatura (*C, K, *F),
+* waluta (PLN, EUR, USD, GBP),
+* długość (metr, jard, cal, stopa, mila, j.a., parsek, rok świetlny),
+* masa (kilogram, funt, karat, kwintal, tona, uncja),
+* przedrostek dziesiętny (piko, nano, mikro, mili, centy, decy, deka, hekto, kilo, mega, giga, tera, peta, eksa, zetta, jotta),
+* objętość (galon, baryłka, metr sześcienny, litr, stopa sześcienna),
+* powierzchnia (ar, akr, hektar, metr kwadratowy, stopa kwadratowa)
+
+<to be continued>
+ ==============>
